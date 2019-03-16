@@ -3,7 +3,7 @@ class Hazel < Formula
   homepage "https://github.com/pkrll/hazel"
   url "https://github.com/pkrll/Hazel/archive/1.1.1.tar.gz"
   version "1.1.1"
-  sha256 "4c8a6c6844b698ce2586101ee59aab4de97607be978049515a845982ee831a9d"
+  sha256 "89377e418f56e9d42fb5874b2a30c57f22bd1cb9db5dd1a404590096c59a4408"
   head "https://github.com/pkrll/Hazel.git"
 
   def install

@@ -1,9 +1,9 @@
 class Hazel < Formula
   desc "A scaffolding tool that'll help you kickstart new projects with ease."
   homepage "https://github.com/pkrll/hazel"
-  url "https://github.com/pkrll/Hazel/archive/1.1.1.tar.gz"
-  version "1.1.1"
-  sha256 "89377e418f56e9d42fb5874b2a30c57f22bd1cb9db5dd1a404590096c59a4408"
+  url "https://github.com/pkrll/Hazel/archive/1.1.2.zip"
+  version "1.1.2"
+  sha256 "3acf6b5c2eaaa0aa6c6f3c85fe597e2afd66913f7037120ebb4aadcf9d22152b"
   head "https://github.com/pkrll/Hazel.git"
 
   def install
